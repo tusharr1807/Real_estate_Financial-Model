@@ -32,3 +32,8 @@ This model is created for educational and portfolio purposes only. All data has 
 
 ### Cash Flow
 ![Cash Flow](Cashflow.jpeg)
+
+
+## Disclaimer
+This project is based on a case study involving Gallagher & Mohan and is created solely for educational and portfolio purposes. 
+All data has been modified and does not represent actual company financials or confidential information.
