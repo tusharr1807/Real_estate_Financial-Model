@@ -17,6 +17,13 @@ The model evaluates the financial feasibility of a real estate asset using proje
 - Cash flow forecasting
 - Valuation using capitalization method
 
+- ## Key Outputs
+- Net Operating Income (NOI)
+- Cash flow projections
+- Asset valuation
+- Loan Amortization 
+- IRR
+
 ## Tools Used
 - Microsoft Excel
 - Finance AI
