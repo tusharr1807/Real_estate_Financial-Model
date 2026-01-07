@@ -28,7 +28,7 @@ This model is created for educational and portfolio purposes only. All data has 
 ## Model Preview
 
 ### Dashboard
-![Dashboard](Screenshots/Dashboard.jpeg)
+![Dashboard](Dashboard.jpeg)
 
 ### Cash Flow
-![Cash Flow](Screnshots/cashflow.jpeg)
+![Cash Flow](Cashflow.jpeg)
