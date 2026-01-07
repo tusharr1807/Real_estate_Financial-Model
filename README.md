@@ -24,3 +24,11 @@ The model evaluates the financial feasibility of a real estate asset using proje
 
 ## Disclaimer
 This model is created for educational and portfolio purposes only. All data has been modified and does not represent real client information.
+
+## Model Preview
+
+### Dashboard
+![Dashboard](Screenshots/Dashboard.jpeg)
+
+### Cash Flow
+![Cash Flow](Screnshots/cashflow.jpeg)
